@@ -11,3 +11,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/seo-expert-from-bangladesh/)  
 - 📸 [Instagram](https://www.instagram.com/sourov_biswass_/)  
 - 🐦 [Twitter/X](https://x.com/Sourov188)
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourov642&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourov642&layout=compact&theme=radical)
